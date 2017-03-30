@@ -34,3 +34,8 @@ The files below are not completely impleted just to give results for the unit te
 
 * Lib/Entity/Vacancy.php
 * Lib/Models/VacancyApi.php
+
+
+# Overview
+
+To get an overview I advice  to look at **Test/test.php**
